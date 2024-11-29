@@ -1,1 +1,3 @@
-Hii
+in this detect.py 
+
+file detects object from webcam and if cthe onf score is more than .8 then it will save the image in the folder
